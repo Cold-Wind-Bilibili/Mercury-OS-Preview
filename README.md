@@ -2,7 +2,7 @@
 Welcome to use Mercury OS,an Origin System made of Microsoft PowerPoint by Cold_Wind.
 Here's update log.
 ---
-0.0.1.0627: establish this project, put the applet into test, add the global start menu, and form the basic pattern of the system.
+0.0.1.0627: establish this project, put the applet into test, add the global start menu, and form the basic pattern of the system.\n
 0.0.2.0705: applet test failed, delete password login and use faceid instead. To be exact, this version is not a normal version. Many things have been castrated.
 0.0.3.0706: make major changes to 0.0.1.0627, including but not limited to icons, wallpapers, color matching and start menu. Add widget, top bar. We stop supposing English in this version.
 0.0.4.0707: optimize widgets, unify styles, and fix bugs.
